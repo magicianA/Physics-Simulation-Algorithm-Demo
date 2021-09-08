@@ -1,3 +1,2 @@
 # README
-gabrielxie@tencent.com
-ALL RIGHTS RESERVERD
+Physics-Simulation-Algorithm-Demo
